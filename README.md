@@ -1,2 +1,4 @@
 # hello-world
-Concepts
+Concepts: Learning is fun
+
+Goodbye-World
